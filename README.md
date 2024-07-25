@@ -30,7 +30,7 @@
 - **Healthcare Data Analysis**: Root cause analysis and credit balance reporting.
 - **Lead Generation & CRM Analysis**: Facebook campaigns and CRM data insights.
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
