@@ -1,2 +1,47 @@
-# Siva-Data-Driven-Insights
-SivaKumar-Data-Insights features a collection of data analytics projects, including dashboards and reports. Showcasing expertise in data visualization and analysis using Power BI, Excel, and Python. Explore how data-driven insights can enhance decision-making and strategy.
+<h1 align="center">Hi 👋, I'm Siva Kumar</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivakumar198&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sivakumar198" alt="Profile Trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/siva-kumar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+## About Me
+🌱 Currently learning **Power BI, Python, SQL, and Excel**  
+👯 Looking to collaborate on **Data Analytics Projects**  
+📫 Reach me at **Kondetisiva87@gmail.com**  
+⚡ Fun fact: **A Lawyer Turned IT Professional**
+
+## Projects
+
+- **Sales Dashboard**: Visualize sales performance with Power BI.
+- **Finance Analytics Report**: Advanced Excel analysis, including scenario planning.
+- **Healthcare Data Analysis**: Root cause analysis and credit balance reporting.
+- **Lead Generation & CRM Analysis**: Facebook campaigns and CRM data insights.
+
+## Tools & Technologies
+
+- **Power BI**: Interactive dashboards and reports.
+- **Excel**: Advanced data analysis and visualization.
+- **Python**: Data manipulation and analysis (in progress).
+- **SQL**: Database management and query building.
+- **Git**: Version control and collaboration.
+- **Azure**: Cloud computing services.
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar198&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar198&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
