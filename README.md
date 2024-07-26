@@ -43,7 +43,7 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
-- **Azure**: Cloud computing services.
+  
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar198&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
