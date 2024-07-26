@@ -21,7 +21,7 @@
 🌱 Currently learning **Power BI, Python, SQL, and Excel**  
 👯 Looking to collaborate on **Data Analytics Projects**  
 📫 Reach me at **Kondetisiva87@gmail.com**  
-⚡ Fun fact: **A Lawyer Turned IT Professional**
+⚡ Fun fact: **My legal background has fine-tuned my analytical skills, giving me a unique edge in data analysis!**
 
 ## Projects :
 
