@@ -26,7 +26,6 @@
 ## Projects :
 
  # 1. Created a _[customer performance report] 
- (https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/Customer%20Perf%20Report.pdf)
 
 - **Purpose of Customer Performance Report:** Empower businesses to monitor and evaluate their customer interactions and performance.
 
@@ -37,7 +36,7 @@
     opportunities for personalized service enhancements.
 
  # 2. Conducted a comprehensive comparison between [Market performance and Sales Targets]
-   (https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/Market%20Perf%20vs%20Target.pdf)
+   
 
 -**Purpose of Market Performance vs Target Report:** Evaluate how market performance aligns with targeted goals, providing insights into market trends and performance gaps.
 
@@ -46,7 +45,7 @@
 -**Role of Report:** Assess market performance relative to targets, highlight key metrics and performance changes, and support strategic decision-making for business expansion and optimization.
 
 # 3.Sales Analytics Final Report 
-(https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/SalesAnalytics_Final_Report.pdf)
+
 
 ## Overview
 The Sales Analytics Final Report provides in-depth insights into sales performance across various dimensions, utilizing advanced tools and techniques to offer a comprehensive view of sales activities.
@@ -95,3 +94,20 @@ The report aims to offer a detailed view of sales performance, highlighting key 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar198&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+## Report Preview:
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-01.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-02.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-03.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-04.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-05.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-06.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-07.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-08.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-09.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-10.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-11.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-12.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-13.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-14.png)
+![Alt Text](https://github.com/sivakumar198/Siva-Data-Driven-Insights/blob/main/resources/images/CB_Sales%26Financial_Analysis-15.png)
